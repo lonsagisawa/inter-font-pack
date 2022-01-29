@@ -14,7 +14,7 @@ All fonts included in this module are open-source and licensed under the SIL Ope
 
 ## Compatibility
 
-Both Roboto and Google Sans have been replaced with Inter for more consistent typography on the stock Pixel ROM.
+Both Roboto and Mi Sans have been replaced with Inter for more consistent typography on the MIUI.
 
 To maximize compatibility, all font names have been patched to match the original fonts. This fixes some issues in third-party apps, such Firefox falling back to Fira Sans instead of using the new fonts.
 
@@ -22,4 +22,4 @@ Additionally, Roboto will be used as a fallback for characters not supported by 
 
 ## Support
 
-If you found this module helpful, please consider supporting development with a **[recurring donation](https://patreon.com/kdrag0n)** on Patreon for benefits such as exclusive behind-the-scenes development news, early access to updates, and priority support. Alternatively, you can also [buy me a coffee](https://paypal.me/kdrag0ndonate). All support is appreciated.
+If you found this module helpful, please consider support original developer with a **[recurring donation](https://patreon.com/kdrag0n)** on Patreon for benefits such as exclusive behind-the-scenes development news, early access to updates, and priority support. Alternatively, you can also [buy him a coffee](https://paypal.me/kdrag0ndonate). All support is appreciated.

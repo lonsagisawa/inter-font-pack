@@ -1,7 +1,6 @@
-id=inter-font
-name=Inter Font Pack
+id=inter-font-miui
+name=Inter Font Pack for MIUI 13
 version=v3.19.1
 versionCode=31901
-author=kdrag0n
-description=Font pack that replaces the system fonts with Inter (sans-serif), Fira Code (monospace), and Source Serif Pro (serif).
-support=https://t.me/proton_projects
+author=kdrag0n, Lon Sagisawa
+description=Font pack that replaces the system fonts with Inter (sans-serif), Fira Code (monospace), and Source Serif Pro (serif). This is a fork to replace Mi Sans font for MIUI 13.
